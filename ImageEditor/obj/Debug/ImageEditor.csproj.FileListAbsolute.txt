@@ -1,0 +1,97 @@
+C:\Users\muham\source\repos\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+C:\Users\muham\source\repos\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+C:\Users\muham\source\repos\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+C:\Users\muham\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+C:\Users\muham\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\muham\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+C:\Users\muham\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+F:\BSCS\BSCS\BSCS\BS-CS-5\Projects\Image Editor\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+F:\BSCS\BSCS\BSCS\BS-CS-5\Projects\Image Editor\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+F:\BSCS\BSCS\BSCS\BS-CS-5\Projects\Image Editor\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+F:\BSCS\BSCS\BSCS\BS-CS-5\Projects\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.AssemblyReference.cache
+F:\BSCS\BSCS\BSCS\BS-CS-5\Projects\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+F:\BSCS\BSCS\BSCS\BS-CS-5\Projects\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+F:\BSCS\BSCS\BSCS\BS-CS-5\Projects\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+F:\BSCS\BSCS\BSCS\BS-CS-5\Projects\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+F:\BSCS\BSCS\BSCS\BS-CS-5\Projects\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+F:\BSCS\BSCS\BSCS\BS-CS-5\Projects\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+F:\Image Editor\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+F:\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+F:\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+F:\Image Editor\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+F:\Image Editor\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+F:\Image Editor\ImageEditor\ImageEditor\bin\Debug\mscorlib.dll
+F:\Image Editor\ImageEditor\ImageEditor\bin\Debug\System.Net.Http.dll
+F:\Image Editor\ImageEditor\ImageEditor\bin\Debug\System.Net.Http.xml
+F:\Image Editor\ImageEditor\ImageEditor\bin\Debug\normidna.nlp
+F:\Image Editor\ImageEditor\ImageEditor\bin\Debug\normnfc.nlp
+F:\Image Editor\ImageEditor\ImageEditor\bin\Debug\normnfd.nlp
+F:\Image Editor\ImageEditor\ImageEditor\bin\Debug\normnfkc.nlp
+F:\Image Editor\ImageEditor\ImageEditor\bin\Debug\normnfkd.nlp
+F:\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+F:\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+F:\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+F:\Image Editor\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.Cache
+C:\Users\023-20-0114\Downloads\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+C:\Users\023-20-0114\Downloads\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+C:\Users\023-20-0114\Downloads\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+C:\Users\023-20-0114\Downloads\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+C:\Users\023-20-0114\Downloads\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+C:\Users\023-20-0114\Downloads\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\023-20-0114\Downloads\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+C:\Users\023-20-0114\Downloads\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\023-20-0114\Downloads\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.Cache
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\bin\Debug\mscorlib.dll
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\bin\Debug\System.Net.Http.dll
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\bin\Debug\System.Net.Http.xml
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\bin\Debug\normidna.nlp
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\bin\Debug\normnfc.nlp
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\bin\Debug\normnfd.nlp
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\bin\Debug\normnfkc.nlp
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\bin\Debug\normnfkd.nlp
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\021-19-0007\Downloads\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.Cache
+F:\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+F:\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.Cache
+F:\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+F:\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+F:\ImageEditor\ImageEditor\bin\Debug\mscorlib.dll
+F:\ImageEditor\ImageEditor\bin\Debug\System.Net.Http.dll
+F:\ImageEditor\ImageEditor\bin\Debug\System.Net.Http.xml
+F:\ImageEditor\ImageEditor\bin\Debug\normidna.nlp
+F:\ImageEditor\ImageEditor\bin\Debug\normnfc.nlp
+F:\ImageEditor\ImageEditor\bin\Debug\normnfd.nlp
+F:\ImageEditor\ImageEditor\bin\Debug\normnfkc.nlp
+F:\ImageEditor\ImageEditor\bin\Debug\normnfkd.nlp
+F:\ImageEditor1\ImageEditor\bin\Debug\ImageEditor.exe.config
+F:\ImageEditor1\ImageEditor\obj\Debug\ImageEditor.exe
+F:\ImageEditor1\ImageEditor\obj\Debug\ImageEditor.pdb
+F:\ImageEditor1\ImageEditor\bin\Debug\ImageEditor.exe
+F:\ImageEditor1\ImageEditor\bin\Debug\ImageEditor.pdb
+F:\ImageEditor1\ImageEditor\bin\Debug\mscorlib.dll
+F:\ImageEditor1\ImageEditor\bin\Debug\System.Net.Http.dll
+F:\ImageEditor1\ImageEditor\bin\Debug\System.Net.Http.xml
+F:\ImageEditor1\ImageEditor\bin\Debug\normidna.nlp
+F:\ImageEditor1\ImageEditor\bin\Debug\normnfc.nlp
+F:\ImageEditor1\ImageEditor\bin\Debug\normnfd.nlp
+F:\ImageEditor1\ImageEditor\bin\Debug\normnfkc.nlp
+F:\ImageEditor1\ImageEditor\bin\Debug\normnfkd.nlp
+F:\ImageEditor1\ImageEditor\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+F:\ImageEditor1\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+F:\ImageEditor1\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+F:\ImageEditor1\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.Cache
